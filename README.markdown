@@ -37,7 +37,7 @@ Alternatively, you can specify an external location for these files in your .vim
     let jshint_options_file = '/full/path/to/jshint/options.js'
     let csslint_options_file = '/full/path/to/csslint/options.js'
 
-If you're d8 executable is not in your classpath, the full path can be specified in your .vimrc file:
+If your d8 executable is not in your classpath, the full path can be specified in your .vimrc file:
 
     let d8_command = '/full/path/to/d8'
 
